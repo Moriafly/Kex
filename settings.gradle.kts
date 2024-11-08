@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Kex"
-include(":app")
 include(":core")
